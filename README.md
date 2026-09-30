@@ -9,7 +9,6 @@ Based in Shizuoka, Japan 🇯🇵
 
 - 🛠️ I turn everyday annoyances into small tools I actually use
 - 🖥️ I move between desktop, 📱 mobile, 🔌 embedded, and 🌐 web
-- ⚙️ By day, I'm an engineer at an actuator manufacturer
 - 🌱 I also run a small farm, and lately I enjoy collecting its data with ESP32
 - 📝 I write a blog and make YouTube videos explaining what I build
 
