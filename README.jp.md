@@ -31,6 +31,9 @@ Shizuoka, Japan 🇯🇵
 | [qt6-desktop-autoshutdown](https://github.com/amekusa03/qt6-desktop-autoshutdown) | 無操作時に自動シャットダウンするQtアプリ |
 | [ubuntu-guide](https://github.com/amekusa03/ubuntu-guide) | 日本語でのUbuntuインストールガイド |
 
+> 💡 **公開リポジトリについて**  
+> 公開しているリポジトリの多くは完成版・安定版です。普段は積極的にメンテナンスしていませんが、バグ報告や必要に応じた微修正・バージョンアップは随時行います。
+
 ## Links
 
 - 🌐 [雨草の庭 (Amekusa's Garden)](https://amekusa.vercel.app/en)

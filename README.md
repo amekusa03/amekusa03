@@ -33,6 +33,9 @@ Based in Shizuoka, Japan 🇯🇵
 | [qt6-desktop-autoshutdown](https://github.com/amekusa03/qt6-desktop-autoshutdown) | A Linux Qt app that shuts the desktop down after inactivity, with TCP remote control |
 | [ubuntu-guide](https://github.com/amekusa03/ubuntu-guide) | A guide to installing Ubuntu in Japanese |
 
+> 💡 **About Public Repositories**  
+> Most of the published repositories are completed and stable versions. While not actively maintained on a daily basis, bug reports, minor fixes, and version updates are made as needed.
+
 ## Links
 
 - 🌐 [Amekusa's Garden (雨草の庭)](https://amekusa.vercel.app/en)
